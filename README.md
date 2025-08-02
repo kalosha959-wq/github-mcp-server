@@ -12,6 +12,21 @@ The GitHub MCP Server connects AI tools directly to GitHub's platform. This give
 
 Built for developers who want to connect their AI tools to GitHub context and capabilities, from simple natural language queries to complex multi-step agent workflows.
 
+## 🎨 Demo Applications
+
+### AI Story Studio
+Experience the GitHub MCP Server capabilities through our interactive demo application:
+
+**[🚀 Launch AI Story Studio Demo](https://kalosha959-wq.github.io/github-mcp-server/ai-story-studio-combined.html)**
+
+The AI Story Studio showcases how frontend applications can integrate with the GitHub MCP Server to create rich, AI-powered experiences. Features include:
+- Interactive story generation interface
+- MCP integration examples and code samples
+- Demonstration of GitHub API access patterns
+- Real-world use case scenarios
+
+This demo illustrates the potential for building sophisticated AI applications that leverage GitHub's ecosystem through the MCP protocol.
+
 ---
 
 ## Remote GitHub MCP Server
